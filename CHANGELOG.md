@@ -6,6 +6,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [2.3.1]
+### Uncategorized
+- use `use MetaMask/action-is-relaese@v1.0`
+- add config for MetaMask/action-npm-publish ([#85](https://github.com/rickycodes/smart-transactions-controller/pull/85))
+
 ## [2.3.0]
 ### Added
 - Add the "clearFees" function ([#84](https://github.com/MetaMask/smart-transactions-controller/pull/84))
@@ -109,21 +114,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Add initial SmartTransactionsController ([#1](https://github.com/MetaMask/smart-transactions-controller/pull/1))
 - Initial commit
 
-[Unreleased]: https://github.com/MetaMask/smart-transactions-controller/compare/v2.3.0...HEAD
-[2.3.0]: https://github.com/MetaMask/smart-transactions-controller/compare/v2.2.0...v2.3.0
-[2.2.0]: https://github.com/MetaMask/smart-transactions-controller/compare/v2.1.0...v2.2.0
-[2.1.0]: https://github.com/MetaMask/smart-transactions-controller/compare/v2.0.1...v2.1.0
-[2.0.1]: https://github.com/MetaMask/smart-transactions-controller/compare/v2.0.0...v2.0.1
-[2.0.0]: https://github.com/MetaMask/smart-transactions-controller/compare/v1.10.0...v2.0.0
-[1.10.0]: https://github.com/MetaMask/smart-transactions-controller/compare/v1.9.1...v1.10.0
-[1.9.1]: https://github.com/MetaMask/smart-transactions-controller/compare/v1.9.0...v1.9.1
-[1.9.0]: https://github.com/MetaMask/smart-transactions-controller/compare/v1.8.0...v1.9.0
-[1.8.0]: https://github.com/MetaMask/smart-transactions-controller/compare/v1.7.0...v1.8.0
-[1.7.0]: https://github.com/MetaMask/smart-transactions-controller/compare/v1.6.0...v1.7.0
-[1.6.0]: https://github.com/MetaMask/smart-transactions-controller/compare/v1.5.0...v1.6.0
-[1.5.0]: https://github.com/MetaMask/smart-transactions-controller/compare/v1.4.0...v1.5.0
-[1.4.0]: https://github.com/MetaMask/smart-transactions-controller/compare/v1.3.0...v1.4.0
-[1.3.0]: https://github.com/MetaMask/smart-transactions-controller/compare/v1.2.0...v1.3.0
-[1.2.0]: https://github.com/MetaMask/smart-transactions-controller/compare/v1.1.0...v1.2.0
-[1.1.0]: https://github.com/MetaMask/smart-transactions-controller/compare/v1.0.0...v1.1.0
-[1.0.0]: https://github.com/MetaMask/smart-transactions-controller/releases/tag/v1.0.0
+[Unreleased]: https://github.com/rickycodes/smart-transactions-controller/compare/v2.3.1...HEAD
+[2.3.1]: https://github.com/rickycodes/smart-transactions-controller/compare/v2.3.0...v2.3.1
+[2.3.0]: https://github.com/rickycodes/smart-transactions-controller/compare/v2.2.0...v2.3.0
+[2.2.0]: https://github.com/rickycodes/smart-transactions-controller/compare/v2.1.0...v2.2.0
+[2.1.0]: https://github.com/rickycodes/smart-transactions-controller/compare/v2.0.1...v2.1.0
+[2.0.1]: https://github.com/rickycodes/smart-transactions-controller/compare/v2.0.0...v2.0.1
+[2.0.0]: https://github.com/rickycodes/smart-transactions-controller/compare/v1.10.0...v2.0.0
+[1.10.0]: https://github.com/rickycodes/smart-transactions-controller/compare/v1.9.1...v1.10.0
+[1.9.1]: https://github.com/rickycodes/smart-transactions-controller/compare/v1.9.0...v1.9.1
+[1.9.0]: https://github.com/rickycodes/smart-transactions-controller/compare/v1.8.0...v1.9.0
+[1.8.0]: https://github.com/rickycodes/smart-transactions-controller/compare/v1.7.0...v1.8.0
+[1.7.0]: https://github.com/rickycodes/smart-transactions-controller/compare/v1.6.0...v1.7.0
+[1.6.0]: https://github.com/rickycodes/smart-transactions-controller/compare/v1.5.0...v1.6.0
+[1.5.0]: https://github.com/rickycodes/smart-transactions-controller/compare/v1.4.0...v1.5.0
+[1.4.0]: https://github.com/rickycodes/smart-transactions-controller/compare/v1.3.0...v1.4.0
+[1.3.0]: https://github.com/rickycodes/smart-transactions-controller/compare/v1.2.0...v1.3.0
+[1.2.0]: https://github.com/rickycodes/smart-transactions-controller/compare/v1.1.0...v1.2.0
+[1.1.0]: https://github.com/rickycodes/smart-transactions-controller/compare/v1.0.0...v1.1.0
+[1.0.0]: https://github.com/rickycodes/smart-transactions-controller/releases/tag/v1.0.0
